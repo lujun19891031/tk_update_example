@@ -10,7 +10,7 @@ from tkinter import messagebox
 import requests
 import os
 
-exe_md5 = "fdafdsaafrtqefqafafdafd"
+exe_md5 = ""
 current_version = '1.0.1'
 
 
